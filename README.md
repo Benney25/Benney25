@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Benney25
-- 👀 I’m interested in Programming, Virtualization, and Cybersecurity
-- 🌱 I’m currently learning Programming, Scripting, and Networking
-- 💞️ I’m looking to collaborate on pretty much anything
-- 📫 How to reach me ... not quite yet friendo :)
-- ➡️Just kidding - you can reach me @ 🌅⤴️🗻
+- 👀 I’m interested in Programming, System Administration, DevOps, and Cybersecurity
+- 🌱 I’m currently learning Networking, Windows, Linux, Programming, Scripting, and SysAdmin tools
+- 💞️ I’m looking to collaborate on 
+- 📫 You can contact me via [Linkedin](https://www.linkedin.com/in/cysecben/).
